@@ -1,0 +1,2 @@
+# exemplo
+Exemplo de CI/CD utilizando VSCODE, GITHUB, AWS CODEPIPELINE e AWS ELASTIC BEANSTALK
