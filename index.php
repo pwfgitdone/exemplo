@@ -9,7 +9,7 @@ $titulo = "Exemplo";
         <title>Exemplo</title>
     </head>
 
-    <body style="background-color: blue;">
+    <body style="background-color: green;">
         <h1>
             <?php print $titulo; ?>
         </h1>
