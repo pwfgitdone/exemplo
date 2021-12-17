@@ -13,7 +13,7 @@ $titulo = "Exemplo";
         <h1>
             <?php print $titulo; ?>
         </h1>
-        Exemplo de CI/CD utilizando VSCODE, GITHUB, AWS CODEPIPELINE e AWS ELASTIC BEANSTALK
+        <p>Exemplo de CI/CD utilizando VSCODE, GITHUB, AWS CODEPIPELINE e AWS ELASTIC BEANSTALK</p>
     </body>
 
     </html>
